@@ -1,0 +1,6 @@
+499A,pool:GBR,England,141000
+599B,Blackburn:GBR,England,140000
+501C,Bolton:GBR,England,130000
+607D,Newport:GBR,Wales,470000
+503E,Preston:GBR,England,138977
+509F,Stockport:GBR,England,298670
